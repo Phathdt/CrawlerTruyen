@@ -25,3 +25,4 @@ crawler_truyen-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 /.env
+*.md
